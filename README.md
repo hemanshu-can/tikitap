@@ -1,4 +1,4 @@
-# tikitap
+# Tikitap
 
 # Functional Requirements
 1. User should be able to see event and its details.
